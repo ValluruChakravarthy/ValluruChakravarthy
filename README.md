@@ -1,4 +1,6 @@
-👋 Hi there! I'm Valluru Chakravarthy, a developer and data enthusiast focused on building scalable solutions for business systems, cloud integration, and data transformation.
+👋 Hi there! 
+
+I'm Valluru Chakravarthy, a developer and data enthusiast focused on building scalable solutions for business systems, cloud integration, and data transformation.
 
 💼 About Me:
 With over 2 years of experience in Oracle ERP and SaaS development, I specialize in creating enterprise applications using modern technologies. Currently, I’m pursuing my Master's in Information Science and Technology at Missouri S&T, focusing on GenAI, ERP, and supply chain systems.
