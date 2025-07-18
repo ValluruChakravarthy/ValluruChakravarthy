@@ -30,7 +30,7 @@ I love to play 🎹..🎵🎵...Moonlight Sonata 3rd Wave,5th Wave is my special
 ---
 
 You can check out my Repositories here on my usage of skills and techniques : 
-🔗 [Repos](https://github.com/ValluruChakravarthy?tab=repositories)
+🔗 [[REPOS]](https://github.com/ValluruChakravarthy?tab=repositories)
 
 ## 🔗 Connect with Me
 
