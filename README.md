@@ -27,6 +27,7 @@ I love to play 🎹..🎵🎵...Moonlight Sonata 3rd Wave,5th Wave is my special
   <img src="https://img.shields.io/badge/VBCS-282C34?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
+You can check out my Repositories here on my usage of skills and techniques : https://github.com/ValluruChakravarthy?tab=repositories
 ---
 
 ## 🔗 Connect with Me
