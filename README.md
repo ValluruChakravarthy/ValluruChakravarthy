@@ -3,7 +3,11 @@
 I'm Valluru Chakravarthy, a developer and data enthusiast focused on building scalable solutions for business systems, cloud integration, and data transformation.
 
 💼 About Me:
-With over 2 years of experience in Oracle ERP and SaaS development, I specialize in creating enterprise applications using modern technologies. Currently, I’m pursuing my Master's in Information Science and Technology at Missouri S&T, focusing on GenAI, ERP, and supply chain systems.
+With over 2 years of experience in Oracle ERP and SaaS development, I specialize in creating enterprise applications using modern technologies. I have recently graduated with Master's in Information Science and Technology at Missouri S&T, focusing on GenAI, ERP, and supply chain systems.
+
+I have worked as Oracle ERP developer in Cognizant for 2 years.My responsibilityy is to design Bank application for the financial client for the tenure, I have honed my skills in Data Migration using Oracle OIC, VBCS,APEX, OracleSQL and Pl/SQL.Implemented multiple file transfer protocols using SFTP,FTP with the usage of PostmanAPI for REST and SOAP services and PuTTy. Currently Im doing research under Professor Kang at Missouri Unviersity of Science and Technology and myy key area of focus is on GenAI and Data Retreival analysis.
+
+I love to play 🎹..🎵🎵...Moonlight Sonata 3rd Wave,5th Wave is my speciality,some namely Beethoven Fur Elise,Hall of Fame,Pirates of the caribbean theme
 
 🧠 Tech Stack & Skills:
 
